@@ -1,16 +1,22 @@
 ## Hi there 👋
 
 <!--
-**EbrahimHammad630/EbrahimHammad630** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Ebrahim 👋
 
-Here are some ideas to get you started:
+🎓 Engineering student with a strong interest in **Programming** and **Computer Science**  
+💻 Passionate about **Software Development**, **Robotics**, and **Biomedical Engineering**  
+🌱 Currently focused on improving coding skills and building a solid technical foundation  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
+
+## Goals
+- 🚀 Develop expertise in programming and computer science  
+- 📚 Leverage GitHub Education resources to create impactful projects in the future  
+
+---
+
+## Contact
+- LinkedIn: [Ebrahim Hammad](https://www.linkedin.com/in/ebrahim-hammad-037938380/)  
+- Email: [ebrahimofficial360@gmail.com](mailto:ebrahimofficial360@gmail.com)
+
 -->
